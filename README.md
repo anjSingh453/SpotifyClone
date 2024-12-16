@@ -18,7 +18,8 @@ A clone of the Spotify web application built using HTML and CSS. This project ai
 
   
 ## Screenshots
-![Uploading Screenshot 2024-12-16 234547.png…]()
+![Screenshot-clone2](https://github.com/user-attachments/assets/20520d5f-78ab-4700-8c75-16bb50dcca50)
+
 
 
  
