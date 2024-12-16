@@ -12,10 +12,13 @@ A clone of the Spotify web application built using HTML and CSS. This project ai
 - CSS
 
   ## Installation
-1. Clone the repository:
-   command :
-   git clone https://github.com/anjSingh453/SpotifyClone.git
-2 cd SpotifyClone
-3 Open the `index.html` file in your web browser to view the Spotify clone.
+- Clone the repository:
+- command :  git clone https://github.com/anjSingh453/SpotifyClone.git
+- Open the `index.html` file in your web browser to view the Spotify clone.
+
+  
 ## Screenshots
+![Uploading Screenshot 2024-12-16 234547.png…]()
+
+
  
